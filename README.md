@@ -1,0 +1,2 @@
+# Taxpayer
+This project is a simple implementation of CRUD (Create, Read, Update, Delete) operations for a Taxpayer entity, utilizing Java, Spring, and Hibernate. In addition to the basic functionality, this project also includes unit tests to ensure the proper functioning of the implemented operations. This project serves as a useful example for learners looking to gain experience with these technologies and gain a better understanding of how they can be used together to build a functional application.
